@@ -1,0 +1,42 @@
+Design a modern mobile fintech application for managing EMIs and recurring subscriptions.
+
+Core features:
+- Dashboard showing monthly outgoing total, budget utilization progress bar, and upcoming dues
+- EMI tracker with total outstanding debt, active loans count, monthly EMI summary
+- Loan cards with progress percentage, paid amount, remaining amount, interest rate, due date, next EMI
+- Bills & recharges screen with categories (Mobile, DTH, Electricity, Gas, Internet, Water, Insurance)
+- History screen with transaction status (success / failed), timestamps, and amounts
+- Add new EMI / subscription flow with form fields: provider name, amount, billing cycle, start date, end date, reminder toggle, notes
+- Reminder system UI for upcoming payments and validity expiration
+
+Visual style:
+- Clean iOS-style layout
+- Soft shadows, rounded cards (16–24px radius)
+- Minimalist spacing system (8pt grid)
+- Blue primary accent with light gray background
+- Subtle gradients on main summary cards
+- Professional fintech typography (SF Pro / Inter style)
+- Small colorful category icons
+- Status pills (success green, failed red)
+- Floating action button for adding EMI/subscription
+
+UX principles:
+- Information hierarchy: Summary → Details → Actions
+- Card-based architecture
+- Bottom tab navigation (Home, EMI Tracker, Pay, History, Profile)
+- Search bars and filter chips
+- Realistic financial data
+- Micro-interactions and subtle animations
+
+Produce:
+- Multiple iPhone screens in a single presentation:
+  1. Home dashboard
+  2. EMI tracker
+  3. Bills & recharges
+  4. History
+  5. Add EMI modal
+
+Style references:
+Apple Wallet + Paytm + Revolut
+
+High fidelity product UI, realistic production-ready mobile design, soft lighting, clean shadows, professional fintech aesthetic, 4k quality, Figma-style mockups, flat perspective, centered on light neutral background.
